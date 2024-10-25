@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar-Soru-1", "Kol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar-Soru-2", "Koleksiyonlar-Soru-2\Koleksiyonlar-Soru-2.csproj", "{8BC6ED9D-CCAF-4F70-B1E7-C5A5DD68790B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar-Soru-3", "Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3.csproj", "{09A3EF02-61FF-405F-85B9-E6BE5CA54F6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8BC6ED9D-CCAF-4F70-B1E7-C5A5DD68790B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BC6ED9D-CCAF-4F70-B1E7-C5A5DD68790B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BC6ED9D-CCAF-4F70-B1E7-C5A5DD68790B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09A3EF02-61FF-405F-85B9-E6BE5CA54F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A3EF02-61FF-405F-85B9-E6BE5CA54F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A3EF02-61FF-405F-85B9-E6BE5CA54F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A3EF02-61FF-405F-85B9-E6BE5CA54F6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
