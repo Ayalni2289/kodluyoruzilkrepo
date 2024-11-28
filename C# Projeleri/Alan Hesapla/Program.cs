@@ -13,13 +13,21 @@
         Console.WriteLine("3. Çevre Hesabı");
         int secim = Convert.ToInt32(Console.ReadLine());
 
-        SecimIslemi secimIslemi = new SecimIslemi();
-        secimIslemi.YapilanSecimIslemi(secim);
+        //Singleton
+        SecimIslemi.Instance.YapilanSecimIslemi(secim);
     }
 }
 
 class SecimIslemi
 {
+     private static readonly SecimIslemi _instance = new SecimIslemi();
+
+    // Singleton instance'e erişmek için property
+    public static SecimIslemi Instance => _instance;
+
+    // Private constructor, dışarıdan yeni örnek yaratılmasını engeller
+    private SecimIslemi() { }
+
     public void YapilanSecimIslemi(int secim)
     {
         switch (secim)
