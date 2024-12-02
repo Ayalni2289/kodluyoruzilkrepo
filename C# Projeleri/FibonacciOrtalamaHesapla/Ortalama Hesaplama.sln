@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alan Hesapla", "..\Alan Hes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integer Toplam", "..\Integer Toplam\Integer Toplam.csproj", "{76C282FF-6C38-404B-9A8C-586A3856B626}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kare Alma", "..\Kare Alma\Kare Alma.csproj", "{D17212EF-738E-49D3-938D-683EC2A06772}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{76C282FF-6C38-404B-9A8C-586A3856B626}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76C282FF-6C38-404B-9A8C-586A3856B626}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76C282FF-6C38-404B-9A8C-586A3856B626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17212EF-738E-49D3-938D-683EC2A06772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17212EF-738E-49D3-938D-683EC2A06772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17212EF-738E-49D3-938D-683EC2A06772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17212EF-738E-49D3-938D-683EC2A06772}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
