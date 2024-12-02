@@ -15,6 +15,7 @@ for(int i=0;i<adet;i++)
     }
     else if(a > 67){
         a = a-67;
+        Math.Abs(a);
         a = a * a;
     }
     if(b < 67)
@@ -23,6 +24,7 @@ for(int i=0;i<adet;i++)
     }
     else if(b > 67){
         b = b-67;
+        Math.Abs(b);
         b = b * b;
     }
     int toplam = a + b;
