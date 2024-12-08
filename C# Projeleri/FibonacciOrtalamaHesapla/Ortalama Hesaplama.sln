@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Yer Değiştirme", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sessiz Harf", "..\Sessiz Harf\Sessiz Harf.csproj", "{BC5EC469-E137-46EC-B1B4-42FE91880A82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vote", "..\Vote\Vote.csproj", "{15B866FF-A5C6-4730-B3F5-F37FC9B55D90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{BC5EC469-E137-46EC-B1B4-42FE91880A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC5EC469-E137-46EC-B1B4-42FE91880A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC5EC469-E137-46EC-B1B4-42FE91880A82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B866FF-A5C6-4730-B3F5-F37FC9B55D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B866FF-A5C6-4730-B3F5-F37FC9B55D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B866FF-A5C6-4730-B3F5-F37FC9B55D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B866FF-A5C6-4730-B3F5-F37FC9B55D90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
