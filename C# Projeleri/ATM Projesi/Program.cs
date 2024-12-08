@@ -30,16 +30,6 @@
 
         Console.WriteLine("\n--- Gün Sonu Logları ---");
         Console.WriteLine("Yapılan İşlemler:");
-        foreach (var log in transactionLogs)
-        {
-            Console.WriteLine(log);
-        }
-
-        Console.WriteLine("\nHatalı Giriş Denemeleri:");
-        foreach (var log in failedLogins)
-        {
-            Console.WriteLine(log);
-        }
 
         using (StreamWriter writer = new StreamWriter(filePath))
         {
