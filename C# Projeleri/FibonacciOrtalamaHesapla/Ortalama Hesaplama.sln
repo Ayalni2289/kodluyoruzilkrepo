@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sessiz Harf", "..\Sessiz Ha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vote", "..\Vote\Vote.csproj", "{15B866FF-A5C6-4730-B3F5-F37FC9B55D90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM Projesi", "..\ATM Projesi\ATM Projesi.csproj", "{C04A3322-CF91-4BE8-90C1-7B76E0A18AF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{15B866FF-A5C6-4730-B3F5-F37FC9B55D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15B866FF-A5C6-4730-B3F5-F37FC9B55D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15B866FF-A5C6-4730-B3F5-F37FC9B55D90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C04A3322-CF91-4BE8-90C1-7B76E0A18AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C04A3322-CF91-4BE8-90C1-7B76E0A18AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C04A3322-CF91-4BE8-90C1-7B76E0A18AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C04A3322-CF91-4BE8-90C1-7B76E0A18AF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

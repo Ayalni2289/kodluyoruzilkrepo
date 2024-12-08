@@ -1,0 +1,12 @@
+--- Gün Sonu Logları ---
+Yapılan İşlemler:
+Para Yatırma: 340 TL - Kullanıcı: ali - 8.12.2024 22:59:17
+Para Çekme: 100 TL - Kullanıcı: ali - 8.12.2024 22:59:18
+Bakiye Sorgulama - Kullanıcı: ali - 8.12.2024 22:59:21
+Bakiye Sorgulama - Kullanıcı: ali - 8.12.2024 22:59:28
+Para Yatırma: 100 TL - Kullanıcı: ali - 8.12.2024 22:59:30
+Para Çekme: 340 TL - Kullanıcı: ali - 8.12.2024 22:59:32
+Bakiye Sorgulama - Kullanıcı: ali - 8.12.2024 22:59:34
+
+Hatalı Giriş Denemeleri:
+Hatalı Giriş Denemesi: ali - 8.12.2024 22:59:11
